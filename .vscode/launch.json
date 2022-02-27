@@ -10,9 +10,9 @@
             "request": "launch",
             "preLaunchTask": "build",
             // If you have changed target frameworks, make sure to update the program path.
-            "program": "${workspaceFolder}/factory-method/bin/Debug/net6.0/factory-method.dll",
+            "program": "${workspaceFolder}/state/bin/Debug/net6.0/state.dll",
             "args": [],
-            "cwd": "${workspaceFolder}/factory-method",
+            "cwd": "${workspaceFolder}/state",
             // For more information about the 'console' field, see https://aka.ms/VSCode-CS-LaunchJson-Console
             "console": "internalConsole",
             "stopAtEntry": false
